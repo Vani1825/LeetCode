@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vani1825/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Vani1825/LeetCode/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/Vani1825/LeetCode/tree/master/0189-rotate-array) |
 | [0792-binary-search](https://github.com/Vani1825/LeetCode/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/Vani1825/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vani1825/LeetCode/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Vani1825/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Prefix Sum
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vani1825/LeetCode/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Vani1825/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
