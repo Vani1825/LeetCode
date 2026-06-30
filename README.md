@@ -80,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vani1825/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vani1825/LeetCode/tree/master/0344-reverse-string) |
 | [0917-reverse-only-letters](https://github.com/Vani1825/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vani1825/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Vani1825/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Vani1825/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/Vani1825/LeetCode/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vani1825/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
 | ------- |
