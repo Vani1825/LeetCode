@@ -1,30 +1,26 @@
 import java.util.*;
 class Solution {
     public int[] maxSlidingWindow(int[] arr, int k) {
-        ArrayList<Integer>ans=new ArrayList<>();
+        int[] ans=new int[arr.length-k+1];
         Deque<Integer>dq=new LinkedList<>();
         int i=0,j=0;
+        int ind=0;
         while(j<arr.length){
-            while(!dq.isEmpty()&& dq.peekLast()<arr[j]){
+            while(!dq.isEmpty()&& arr[dq.peekLast()]<arr[j]){
                 dq.pollLast();
             }
-            dq.offerLast(arr[j]);
+            dq.offerLast(j);
             if(j-i+1 <k)j++;
             else if(j-i+1 ==k ){
-                ans.add(dq.peekFirst());
-                if(arr[i]== dq.peekFirst()){
+                ans[ind++]=arr[dq.peekFirst()];
+                if(i== dq.peekFirst()){
                     dq.pollFirst();
                 }
                 i++;
                 j++;
             }
         }
-        int nums[]=new int[ans.size()];
-        int ind=0;
-        for(int num :ans){
-                nums[ind]=num;
-                ind++;
-        }
-        return nums;
+        
+        return ans;
     }
 }
