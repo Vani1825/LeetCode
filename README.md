@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Vani1825/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Vani1825/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Vani1825/LeetCode/tree/master/0792-binary-search) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vani1825/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/Vani1825/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/Vani1825/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Math
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vani1825/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Vani1825/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Vani1825/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vani1825/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vani1825/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Heap (Priority Queue)
 |  |
