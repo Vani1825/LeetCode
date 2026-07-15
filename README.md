@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Vani1825/LeetCode/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Vani1825/LeetCode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Vani1825/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0525-contiguous-array](https://github.com/Vani1825/LeetCode/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Vani1825/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Vani1825/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Vani1825/LeetCode/tree/master/0792-binary-search) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Vani1825/LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Vani1825/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vani1825/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Vani1825/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vani1825/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Vani1825/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Vani1825/LeetCode/tree/master/0242-valid-anagram) |
+| [0525-contiguous-array](https://github.com/Vani1825/LeetCode/tree/master/0525-contiguous-array) |
 ## Design
 |  |
 | ------- |
