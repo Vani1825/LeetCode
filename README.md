@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Vani1825/LeetCode/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Vani1825/LeetCode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Vani1825/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0523-continuous-subarray-sum](https://github.com/Vani1825/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Vani1825/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vani1825/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Vani1825/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vani1825/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vani1825/LeetCode/tree/master/0189-rotate-array) |
+| [0523-continuous-subarray-sum](https://github.com/Vani1825/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vani1825/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Vani1825/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Vani1825/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vani1825/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Vani1825/LeetCode/tree/master/0724-find-pivot-index) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vani1825/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Vani1825/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Vani1825/LeetCode/tree/master/0242-valid-anagram) |
+| [0523-continuous-subarray-sum](https://github.com/Vani1825/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Vani1825/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vani1825/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vani1825/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
