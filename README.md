@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vani1825/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Vani1825/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Vani1825/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Vani1825/LeetCode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/Vani1825/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Vani1825/LeetCode/tree/master/0917-reverse-only-letters) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vani1825/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vani1825/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vani1825/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vani1825/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Vani1825/LeetCode/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/Vani1825/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vani1825/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vani1825/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vani1825/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Vani1825/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Vani1825/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Vani1825/LeetCode/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vani1825/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Vani1825/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Vani1825/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
