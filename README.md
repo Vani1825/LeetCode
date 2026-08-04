@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Vani1825/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vani1825/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vani1825/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Vani1825/LeetCode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Vani1825/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0523-continuous-subarray-sum](https://github.com/Vani1825/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Vani1825/LeetCode/tree/master/0525-contiguous-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vani1825/LeetCode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Vani1825/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vani1825/LeetCode/tree/master/0733-flood-fill) |
 ## String
 |  |
@@ -256,9 +258,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vani1825/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vani1825/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vani1825/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vani1825/LeetCode/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Vani1825/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
