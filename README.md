@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vani1825/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Vani1825/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Vani1825/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1631-path-with-minimum-effort](https://github.com/Vani1825/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vani1825/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/Vani1825/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2048-build-array-from-permutation](https://github.com/Vani1825/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vani1825/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Vani1825/LeetCode/tree/master/0792-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vani1825/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/Vani1825/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Vani1825/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Vani1825/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vani1825/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Vani1825/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## String
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vani1825/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/Vani1825/LeetCode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Vani1825/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Vani1825/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vani1825/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Vani1825/LeetCode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Vani1825/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -298,11 +303,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Vani1825/LeetCode/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/Vani1825/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vani1825/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Vani1825/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Vani1825/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vani1825/LeetCode/tree/master/0547-number-of-provinces) |
+| [1631-path-with-minimum-effort](https://github.com/Vani1825/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -335,4 +342,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Vani1825/LeetCode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Vani1825/LeetCode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
