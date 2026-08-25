@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vani1825/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vani1825/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Vani1825/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Vani1825/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Vani1825/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Vani1825/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Vani1825/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vani1825/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vani1825/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Vani1825/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Vani1825/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Vani1825/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Vani1825/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Vani1825/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Vani1825/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vani1825/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Vani1825/LeetCode/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/Vani1825/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Vani1825/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vani1825/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vani1825/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Vani1825/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Vani1825/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Vani1825/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vani1825/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vani1825/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
