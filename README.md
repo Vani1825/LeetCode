@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Vani1825/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Vani1825/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Vani1825/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Vani1825/LeetCode/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/Vani1825/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/Vani1825/LeetCode/tree/master/0792-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vani1825/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vani1825/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Vani1825/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vani1825/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Vani1825/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Vani1825/LeetCode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vani1825/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Vani1825/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Vani1825/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vani1825/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Vani1825/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Vani1825/LeetCode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
