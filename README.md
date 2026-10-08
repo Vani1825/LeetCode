@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Vani1825/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vani1825/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vani1825/LeetCode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Vani1825/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vani1825/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vani1825/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Vani1825/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vani1825/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Vani1825/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Vani1825/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Vani1825/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vani1825/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
