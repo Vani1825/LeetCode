@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Vani1825/LeetCode/tree/master/0792-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vani1825/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vani1825/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Vani1825/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vani1825/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vani1825/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Vani1825/LeetCode/tree/master/0986-interval-list-intersections) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vani1825/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vani1825/LeetCode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Vani1825/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0931-minimum-falling-path-sum](https://github.com/Vani1825/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Vani1825/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vani1825/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Vani1825/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Vani1825/LeetCode/tree/master/0392-is-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vani1825/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vani1825/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/Vani1825/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Vani1825/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Vani1825/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vani1825/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
