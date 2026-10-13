@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vani1825/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Vani1825/LeetCode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Vani1825/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0416-partition-equal-subset-sum](https://github.com/Vani1825/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Vani1825/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Vani1825/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vani1825/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Vani1825/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Vani1825/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Vani1825/LeetCode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Vani1825/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vani1825/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vani1825/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Vani1825/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -422,4 +424,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vani1825/LeetCode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Vani1825/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Vani1825/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
