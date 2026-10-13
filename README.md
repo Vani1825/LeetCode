@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vani1825/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vani1825/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Vani1825/LeetCode/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/Vani1825/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Vani1825/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0416-partition-equal-subset-sum](https://github.com/Vani1825/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Vani1825/LeetCode/tree/master/0455-assign-cookies) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Vani1825/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Vani1825/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Vani1825/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vani1825/LeetCode/tree/master/0560-subarray-sum-equals-k) |
