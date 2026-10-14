@@ -5,15 +5,14 @@ class Solution {
         int max=Integer.MIN_VALUE;
         while(j<nums.length){
             sum+=nums[j];
-            if(j-i+1 <k)j++;
-            else if(j-i+1 ==k ){
-                max=Math.max(sum,max);
-
+            if(j-i+1<k)j++;
+            else if(j-i+1>=k){
+                max=Math.max(max,sum);
                 sum-=nums[i];
                 i++;
                 j++;
             }
         }
-        return (double)max/k;
+        return (double)max/k ;
     }
 }
