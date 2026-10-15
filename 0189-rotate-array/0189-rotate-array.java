@@ -1,15 +1,18 @@
-import java.util.Arrays;
 class Solution {
     public void rotate(int[] nums, int k) {
-        int a[]=new int[nums.length];
-        int l=nums.length;
-        k=k%l;
-        for(int i=0;i<l;i++){
-            a[(i+k)%l]=nums[i];
+        int n=nums.length;
+        k=k%n;
+        reverse(nums,0,n-1);
+        reverse(nums,0,k-1);
+        reverse(nums,k,n-1);
+    }
+    public void reverse(int []nums,int left,int right){
+        while(left<=right){
+            int temp=nums[right];
+            nums[right]=nums[left];
+            nums[left]=temp;
+            left++;
+            right--;
         }
-        for (int i = 0; i < l; i++) {
-            nums[i] = a[i];
-        }
-            System.out.print(Arrays.toString(a));        
     }
 }
