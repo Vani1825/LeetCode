@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vani1825/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vani1825/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Vani1825/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Vani1825/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Vani1825/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Vani1825/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vani1825/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vani1825/LeetCode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Vani1825/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vani1825/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Vani1825/LeetCode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Vani1825/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Vani1825/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vani1825/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Vani1825/LeetCode/tree/master/0455-assign-cookies) |
 ## Bubble Sort
