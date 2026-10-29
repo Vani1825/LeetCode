@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vani1825/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vani1825/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Vani1825/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/Vani1825/LeetCode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Vani1825/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vani1825/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vani1825/LeetCode/tree/master/0189-rotate-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vani1825/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Vani1825/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vani1825/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Vani1825/LeetCode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Vani1825/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vani1825/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Vani1825/LeetCode/tree/master/0680-valid-palindrome-ii) |
